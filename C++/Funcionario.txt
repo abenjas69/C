@@ -1,0 +1,5 @@
+O:25050;Pintura;Zeca Estacionancio;Rua A n9;1985/<1/1
+1100;15;Turno: Nao
+
+A:25051;RecHumanos;Adrusila Lopes;Rua E n6;1996/<6/6
+900;0;

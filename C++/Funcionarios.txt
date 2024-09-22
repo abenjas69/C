@@ -1,0 +1,4 @@
+O:80884;Futebol;Diogo Borges;Rua da Ribeira;2005/<6/12
+300000;100;Turno: Nao
+A:69420;Infor´matica;Laura Valerio;Rua do meio;2016/<6/16
+1000;0;
